@@ -1,0 +1,7 @@
+@import '../styles/variables';
+
+.wrapper {
+  background-color: $body-bg;
+  height: calc(100vh - 107px);
+  overflow-y: auto;
+}

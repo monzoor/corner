@@ -1,0 +1,10 @@
+@import '../../styles/variables';
+
+.wrapper {
+  max-width: $max-width;
+  position: relative;
+  height: 100vh;
+  .content {
+    color: $text-dark;
+  }
+}

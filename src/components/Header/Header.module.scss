@@ -1,0 +1,14 @@
+@import '../../styles/variables';
+
+.wrapper {
+  border-radius: 20px 20px 0 0;
+  background: $header-bg;
+  padding: 25px;
+  display: flex;
+  justify-content: space-between;
+  color: $text-light;
+  font-weight: bold;
+  align-items: center;
+  font-size: 40px;
+  line-height: 0;
+}
